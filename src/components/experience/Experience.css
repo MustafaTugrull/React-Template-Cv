@@ -1,0 +1,25 @@
+/* Experience.css */
+.w3-container {
+    padding: 20px;
+  }
+  
+  .w3-card {
+    margin-bottom: 20px;
+  }
+  
+  .w3-opacity {
+    opacity: 0.7;
+  }
+  
+  .w3-padding-16 {
+    padding: 16px;
+  }
+  
+  .w3-text-teal {
+    color: #009688;
+  }
+  
+  .w3-xxlarge {
+    font-size: 32px;
+  }
+  
